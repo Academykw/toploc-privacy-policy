@@ -127,7 +127,7 @@ export default function PrivacyPolicy() {
             please reach out to us directly — we&apos;re happy to help.
           </p>
           <p>
-            📧{" "}
+           
             <strong>
               <a
                 href="mailto:toplocconsult6@gmail.com"
